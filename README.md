@@ -19,7 +19,7 @@
 
 
 Hi everyone, I'm shyaka chaste. I'm from Rwanda. I study at Lycee de kigali.
-Iam a Passionate Developer: Mastering the Art of Frontend and Backend Wizardry
+Iam a self taught and Passionate Developer: Mastering the Art of Frontend and Backend Wizardry
 
 
   <p align="left">
@@ -56,7 +56,7 @@ Iam a Passionate Developer: Mastering the Art of Frontend and Backend Wizardry
 <br/>
 
 ### Database
-<img align="left" alt="firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /><br />
+<img align="left" alt="firebase" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" /><br />
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><br />
 
 <br/>
@@ -64,9 +64,10 @@ Iam a Passionate Developer: Mastering the Art of Frontend and Backend Wizardry
 
 ### Tools and services
 
-<img align="left" alt="vscode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" /><br />
+<img align="left" alt="figma" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" /><br />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
+<img align="left" alt="canva" width="50px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" />
 
 <br/>
 
