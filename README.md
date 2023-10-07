@@ -40,7 +40,8 @@ Iam a self taught and Passionate Developer: Mastering the Art of Frontend and Ba
 <li>Graphic Design</li>
 <li>Digital Marketing</li>
 </br>
-### Frontend
+
+<h1> Frontend</h1>
 
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -52,7 +53,7 @@ Iam a self taught and Passionate Developer: Mastering the Art of Frontend and Ba
 
 <br/>
 
-### Backend and Database
+<h1>Backend and Database</h1>
 </br>
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="django" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
