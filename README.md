@@ -33,12 +33,13 @@ Iam a self taught and Passionate Developer: Mastering the Art of Frontend and Ba
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shyakachaste?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
+
 <h1>Services</h1>
 <li>Web Design</li>
 <li>Web Development</li>
 <li>Graphic Design</li>
 <li>Digital Marketing</li>
+</br>
 ### Frontend
 
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
