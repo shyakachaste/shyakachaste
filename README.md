@@ -56,7 +56,9 @@ Iam a self taught and Passionate Developer: Mastering the Art of Frontend and Ba
 <br/>
 
 ### Database
+
 <img align="left" alt="firebase" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" />
+</br>
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
 <br/>
