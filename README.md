@@ -55,11 +55,6 @@ Iam a Passionate Developer: Mastering the Art of Frontend and Backend Wizardry
 
 <br/>
 
-### Mobile
-
-
-<br/>
-
 ### Database
 <img align="left" alt="firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /><br />
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><br />
