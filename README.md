@@ -58,6 +58,7 @@ Iam a self taught and Passionate Developer: Mastering the Art of Frontend and Ba
 <img align="left" alt="github" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" />
 <img align="left" alt="canva" width="50px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" />
 </br>
+</br>
 <h2>Backend and Database</h2>
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="django" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
