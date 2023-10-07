@@ -34,7 +34,11 @@ Iam a self taught and Passionate Developer: Mastering the Art of Frontend and Ba
    </p>
 
 ---
-
+<h1>Services</h1>
+<li>Web Design</li>
+<li>Web Development</li>
+<li>Graphic Design</li>
+<li>Digital Marketing</li>
 ### Frontend
 
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
