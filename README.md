@@ -54,7 +54,7 @@ Iam a self taught and Passionate Developer: Mastering the Art of Frontend and Ba
 <br/>
 <h2>Tools</h2>
 <img align="left" alt="git" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />
-<img align="left" alt="git" width="50px" style="padding-right:10px;" src="https://devicons.railway.app/i/github-dark.svg" />
+<img align="left" alt="github" width="50px" style="padding-right:10px;" src="https://devicons.railway.app/i/github-dark.svg" />
 <img align="left" alt="vscode" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />
 <img align="left" alt="github" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" />
 <img align="left" alt="canva" width="50px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" />
@@ -71,9 +71,9 @@ Iam a self taught and Passionate Developer: Mastering the Art of Frontend and Ba
 <br>
 </br>
 <h2>Others</h2>
-<img align="left" alt="Nextjs" width="50px" style="padding-right:10px;" src="https://devicons.railway.app/i/nextjs-dark.svg" />
-<img align="left" alt="Nextjs" width="50px" style="padding-right:10px;" src="https://devicons.railway.app/i/nextjs-dark.svg" />
-<img align="left" alt="Nextjs" width="50px" style="padding-right:10px;" src="https://devicons.railway.app/i/nextjs-dark.svg" />
+<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://devicons.railway.app/i/cplusplus.png" />
+<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://devicons.railway.app/i/tux.svg" />
+<img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://devicons.railway.app/i/c.svg" />
 
 
 
