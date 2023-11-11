@@ -36,7 +36,7 @@ Iam a self taught and Passionate Developer: Mastering the Art of Frontend and Ba
 
 <h2>Services</h2>
 <li>Web Design</li>
-<li>Web Development</li>
+<li>Web App Development</li>
 <li>Graphic Design</li>
 <li>Digital Marketing</li>
 </br>
