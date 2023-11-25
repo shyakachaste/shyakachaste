@@ -28,11 +28,13 @@ Iam a self taught and Passionate Developer: Mastering the Art of Frontend and Ba
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCnNgtK4tGlWcceXVzoyTg8Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>-->
       <a href="https://github.com/shyakachaste?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shyakachaste?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+    <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=shyakachaste">
+</a>
       <a href="https://github.com/shyakachaste?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shyakachaste?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
-
 <h2>Services</h2>
 <li>Web Design</li>
 <li>Web App Development</li>
