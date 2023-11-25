@@ -72,6 +72,7 @@ Iam a self taught and Passionate Developer: Mastering the Art of Frontend and Ba
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://devicons.railway.app/i/tux.svg" />
 <img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://devicons.railway.app/i/c.svg" />
 
+</br>
  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=shyakachaste">
 </a>
