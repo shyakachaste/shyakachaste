@@ -6,7 +6,7 @@ Passionate Developer: Mastering the Art of Frontend and Backend Wizardry.
 Hi, I'm Shyaka Chaste from Rwanda, Lycee de Kigali student. I'm all about frontend coding – making websites slick and user-friendly. I know some backend, but I thrive on the pixel-perfect vibes of frontend magic! 🚀
 
 * 🌍  I'm based in Rwanda,kigali
-* 🖥️  See my portfolio at [Shyaka chaste portfolio](http://https://shyakachaste.me)
+* 🖥️  See my portfolio at [Shyaka chaste portfolio](https://shyakachaste.me/)
 * ✉️  You can contact me at [liochastej@gmail.com](mailto:liochastej@gmail.com)
 
 
