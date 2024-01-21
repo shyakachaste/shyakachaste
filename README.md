@@ -9,7 +9,4 @@ Hi, I'm Shyaka Chaste from Rwanda, Lycee de Kigali student. I'm all about fronte
 * 🖥️  See my portfolio at [Shyaka chaste portfolio](https://shyakachaste.me/)
 * ✉️  You can contact me at [liochastej@gmail.com](mailto:liochastej@gmail.com)
 
-
-- 📫 How to reach me **liochastej@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/shyaka-chaste-982a32272/](https://www.linkedin.com/in/shyaka-chaste-982a32272/)
