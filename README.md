@@ -10,3 +10,9 @@ Hi, I'm Shyaka Chaste from Rwanda, Lycee de Kigali student. I'm all about fronte
 * ✉️  You can contact me at [liochastej@gmail.com](mailto:liochastej@gmail.com)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shyaka-chaste-982a32272/](https://www.linkedin.com/in/shyaka-chaste-982a32272/)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wakaflorien&show_icons=true&locale=en&layout=compact" alt="wakaflorien" /></p>  
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wakaflorien&show_icons=true&locale=en" alt="wakaflorien" /></p>  
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wakaflorien&" alt="wakaflorien" /></p>
