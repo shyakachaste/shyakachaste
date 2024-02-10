@@ -11,5 +11,5 @@ Hi, I'm Shyaka Chaste from Rwanda, Lycee de Kigali student. I'm all about fronte
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shyaka-chaste-982a32272/](https://www.linkedin.com/in/shyaka-chaste-982a32272/)
 
-- [![committers.top badge](https://user-badge.committers.top/rwanda/USERNAME.svg)](https://user-badge.committers.top/rwanda/shyakachaste)
+- [![committers.top badge](https://user-badge.committers.top/rwanda/shyakachaste.svg)](https://user-badge.committers.top/rwanda/shyakachaste)
 
