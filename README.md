@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shyaka Chaste
 =====================================================================================================================================
-Passionate Developer: Mastering the Art of Frontend and Backend Wizardry.
+Young frontend developer making cool & user-friendly websites.
 -------------------------------------------------------------------------
 
-Hi, I'm Shyaka Chaste from Rwanda, Lycee de Kigali student. I'm all about frontend coding – making websites slick and user-friendly. I know some backend, but I thrive on the pixel-perfect vibes of frontend magic! 🚀
+Hi, I'm Shyaka Chaste from Rwanda, Lycee de Kigali student.I’m a young frontend developer. I love making cool and easy-to-use websites. 
 
 * 🌍  I'm based in Rwanda,kigali
 * 🖥️  See my portfolio at [Shyaka chaste portfolio](https://shyakachaste.me/)
