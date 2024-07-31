@@ -1,5 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shyaka Chaste
 =====================================================================================================================================
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YodaLightsabr)](https://github.com/shyakachaste)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YodaLightsabr&layout=compact)](https://github.com/shyakachaste)
+
 Making Ideas Shine in the Digital World
 -------------------------------------------------------------------------
 
