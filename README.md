@@ -10,7 +10,7 @@ Hi, I'm Shyaka Chaste, a student at Lycee de Kigali. I like developing websites 
 
 * 🌍  I'm based in Rwanda,kigali
 * 🖥️  See my portfolio at [Shyaka chaste portfolio](https://shyakachaste.me/)
-* ✉️  You can contact me at [liochastej@gmail.com](mailto:liochastej@gmail.com)
+* ✉️  You can contact me at [Email](mailto:shyakachaste1@gmail.com)
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/shyakachaste/)
 
