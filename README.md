@@ -6,10 +6,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Making Ideas Shine in the Digital World
 -------------------------------------------------------------------------
 
-Hi, I'm Shyaka Chaste, a student at Lycee de Kigali. I like developing websites , web apps and working on UI/UX design. I'm also the founder of Youth Code Camp, a community of programmers. Let's chat about tech!
+Hi, I'm Shyaka Chaste, a student at Lycee de Kigali. I like developing websites , web apps and organizing events . I'm also the founder of Youth Code Camp, a community of young programmers. Let's chat about tech!
 
 * 🌍  I'm based in Rwanda,kigali
-* 🖥️  See my portfolio at [Shyaka chaste portfolio](https://shyakachaste.me/)
+* 🖥️  See my portfolio at [Shyaka chaste portfolio](https://shyakachaste.vercel.app/)
 * ✉️  You can contact me at [Email](mailto:shyakachaste1@gmail.com)
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/shyakachaste/)
