@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Making Ideas Shine in the Digital World
 -------------------------------------------------------------------------
 
-Hi, I’m Shyaka Chaste — a frontend developer, event organizer, and entrepreneur. I build clean, responsive websites and web apps, organize tech events to connect and inspire students and developers, and help businesses with branding strategy to grow their online presence.
+I build clean, responsive websites and web apps, organize tech events to connect and inspire students and developers, and help businesses with branding strategy.
 
 * 🌍  I'm based in Rwanda, Kigali
 * 🖥️  See my portfolio at [Shyaka chaste portfolio](https://shyakachaste.com)
