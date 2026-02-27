@@ -1,19 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shyaka Chaste
-=====================================================================================================================================
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyakachaste)](https://github.com/shyakachaste)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyakachaste&layout=compact)](https://github.com/shyakachaste)
+<h1 align="center">Hi 👋, I'm Shyaka Chaste</h1>
+<h3 align="center">Web App Developer | Future Software Engineer</h3>
 
-Making Ideas Shine in the Digital World
--------------------------------------------------------------------------
+<p align="center">
+📍 Kigali, Rwanda
+</p>
 
-I build clean, responsive websites and web apps, organize tech events to connect and inspire students and developers, and help businesses with branding strategy.
+<p align="center">
+<a href="https://www.linkedin.com/in/shyakachaste/">LinkedIn</a>
+</p>
 
-* 🌍  I'm based in Rwanda, Kigali
-* 🖥️  See my portfolio at [Shyaka chaste portfolio](https://shyakachaste.com)
-* ✉️  You can contact me at [Email](mailto:shyakachaste1@gmail.com)
+---
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/shyakachaste/)
+## 📊 GitHub Stats
 
-- [![committers.top badge](https://user-badge.committers.top/rwanda/shyakachaste.svg)](https://user-badge.committers.top/rwanda/shyakachaste)
-
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=shyakachaste)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shyakachaste&layout=compact)
