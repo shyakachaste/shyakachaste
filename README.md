@@ -52,7 +52,7 @@
 
 # Hi, I'm Chaste Shyaka 👋
 
-### Aspiring SOC / Cybersecurity Analyst | Developer
+### Cybersecurity Analyst | Developer
 
 Montreal, Quebec 🇨🇦
 
