@@ -64,9 +64,8 @@ Montreal, Quebec 🇨🇦
 
 ## About me
 
-Aspiring SOC / security analyst currently pursuing an AEC in Computer Security Analyst at Trebas Institute, building hands-on SOC and IT skills through home labs, TryHackMe and personal security projects. Currently preparing for the CompTIA Security+ and Cisco CCNA.
-
-Before moving into cybersecurity, I spent 3+ years as a self-taught developer and founded Hack With Me, where I organized coding events and hackathons. I am particularly interested in helping organizations strengthen their security and protect the people they serve.
+Cybersecurity Analyst currently pursuing an AEC in Computer Security Analyst at Trebas Institute, building hands-on cybersecurity skills through home labs, Hack The Box, TryHackMe, and personal security projects. Currently preparing for the CompTIA Security+.
+Before moving into cybersecurity, I spent over three years as a self-taught developer and founded Hack With Me, where I organized coding events and hackathons. I am particularly interested in helping organizations strengthen their security and protect the people they serve.
 
 ## Certifications
 
@@ -74,7 +73,6 @@ Before moving into cybersecurity, I spent 3+ years as a self-taught developer an
 | --- | --- |
 | Google Cybersecurity Certificate | ✅ Completed |
 | CompTIA Security+ | 🔄 In progress |
-| Cisco CCNA | 🔄 In progress |
 
 ## Projects
 
