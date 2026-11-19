@@ -68,19 +68,6 @@ Cybersecurity Analyst currently pursuing an AEC in Computer Security Analyst at 
 Before moving into cybersecurity, I spent over three years as a self-taught developer and founded Hack With Me, where I organized coding events and hackathons.
 I am passionate about helping organizations strengthen their security and protect the people they serve.
 
-## Certifications
-
-| Certification | Status |
-| --- | --- |
-| CompTIA Security+ | ✅ Completed |
-| Google Cybersecurity Certificate | ✅ Completed |
-
-## Projects
-
-| Project | Status |
-| --- | --- |
-| Phishing email analyzer | 🛠️ Coming soon |
-
 ---
 
 <div align="center">
