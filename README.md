@@ -54,19 +54,11 @@
 
 ### Cybersecurity Analyst | Developer
 
-Montreal, Quebec 🇨🇦
+Quebec 🇨🇦
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shyakachaste/)
 
 </div>
-
----
-
-## About me
-
-Cybersecurity Analyst currently pursuing an AEC in Computer Security Analyst at Trebas Institute, with a focus on defensive security.
-Before moving into cybersecurity, I spent over three years as a self-taught developer and founded Hack With Me, where I organized coding events and hackathons.
-I am passionate about helping organizations strengthen their security and protect the people they serve.
 
 ---
 
